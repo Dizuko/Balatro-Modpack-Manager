@@ -6,7 +6,8 @@ Due to functions being in batch files, a change of modpack can be controled by t
 
 
 First practice safe modding, back up your `"%APPDATA%\Balatro\Mods"` folder
-Download and unzip, then place the Mods.store folder into your `%APPDATA%\Balatro`
+
+Download (As .ZIP above) and unzip, then place the Mods.store folder into your `%APPDATA%\Balatro`
 
 NOT in `%APPDATA\Balatro\Mods`!!
 
