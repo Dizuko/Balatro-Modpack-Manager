@@ -5,11 +5,13 @@ A simple use of Batch files and Symbiotic Links to create an ease of making and 
 Due to functions being in batch files, a change of modpack can be controled by things like a stream deck
 
 
+
 First practice safe modding, back up your `"%APPDATA%\Balatro\Mods"` folder
 
 Download (As .ZIP above) and unzip, then place the Mods.store folder into your `%APPDATA%\Balatro`
 
 NOT in `%APPDATA\Balatro\Mods`!!
+
 
 
 Then run the First Setup.bat, this will ask you to name your current modpack, it will take your current modlist from within the `...\Mods` folder and copy it to a new folder within `...\Mods.store`
